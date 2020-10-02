@@ -1,9 +1,9 @@
-type,value
-Pruebas positivas confirmadas,341
-Casos probables,124
-Total de casos,465
-Hospitalizaciones,31
-Total de pruebas,3797
-Brotes,13
-Muertes entre casos,4
-Muertes debidas a COVID-19,2
+"type_esp","value"
+"Pruebas positivas confirmadas",346
+"Casos probables",125
+"Total de casos",471
+"Hospitalizaciones",31
+"Total de pruebas",3797
+"Brotes",13
+"Muertes entre casos",4
+"Muertes debidas a COVID-19",2
