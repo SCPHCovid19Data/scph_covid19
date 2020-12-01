@@ -1,4 +1,4 @@
-"Fecha","positivos nuevos por 100,000 personas en los 14 dias anteriores","min","Nivel Azul: Precacion","Nivel Amarillo: Preocupaction","Nivel Anaranjado: Alto Riesgo","max"
+"Fecha","positivos nuevos por 100,000 personas en los 14 dias anteriores","min","Nivel Azul: Precacion","Nivel Amarillo: Preocupaction","Nivel Anaranjado: Alto Riesgo","Nivel Rojo: Reisgo severo"
 "2020-03-03",0,0,75,175,350,1233.29243881966
 "2020-03-04",0,0,75,175,350,1233.29243881966
 "2020-03-05",0,0,75,175,350,1233.29243881966
@@ -271,3 +271,4 @@
 "2020-11-27",1159.03661135146,0,75,175,350,1233.29243881966
 "2020-11-28",1204.23581067993,0,75,175,350,1233.29243881966
 "2020-11-29",1210.69283915542,0,75,175,350,1233.29243881966
+"2020-11-30",1139.66552592497,0,75,175,350,1233.29243881966

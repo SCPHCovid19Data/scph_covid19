@@ -1,4 +1,4 @@
-"Date","min","Rolling 14-Day Percent of Tests Positive","Level Blue: Cautious","Level Yellow: Concern","Level Orange: High Risk","max"
+"Date","min","Rolling 14-Day Percent of Tests Positive","Level Blue: Cautious","Level Yellow: Concern","Level Orange: High Risk","Level Red: Severe Risk"
 2020-11-29,0,7.55581842377643,5,10,15,17.4037674037674
 2020-11-28,0,7.44873341375151,5,10,15,17.4037674037674
 2020-11-27,0,7.4685653688835,5,10,15,17.4037674037674
