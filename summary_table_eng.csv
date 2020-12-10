@@ -1,9 +1,9 @@
-"type_eng","value"
-"Confirmed Positive Tests",1548
-"Probable Cases",204
-"Total Cases",1752
-"Hospitalizations",46
-"Total Tested",21167
-"Outbreaks",66
-"Deaths Among Cases",4
-"Deaths Due to COVID-19",2
+type_eng,value
+Confirmed Positive Tests,1548
+Probable Cases,204
+Total Cases,1752
+Hospitalizations,46
+Total Tested,21140
+Outbreaks,66
+Deaths Among Cases,4
+Deaths Due to COVID-19,2
