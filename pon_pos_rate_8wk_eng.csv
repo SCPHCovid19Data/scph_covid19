@@ -1,4 +1,4 @@
-"Date","Rolling 14-Day Percent of Tests Positive","min","Level Blue: Caution","Level Yellow: Concern","Level Orange: High Risk","Level Red: Severe Risk"
+"Date","Rolling 7-Day Percent of Tests Positive","min","Level Blue: Caution","Level Yellow: Concern","Level Orange: High Risk","Level Red: Severe Risk"
 2021-02-04,6.40473627556512,0,5,7.5,15,48.1481481481481
 2021-02-03,5.66502463054187,0,5,7.5,15,48.1481481481481
 2021-02-02,6.07638888888889,0,5,7.5,15,48.1481481481481

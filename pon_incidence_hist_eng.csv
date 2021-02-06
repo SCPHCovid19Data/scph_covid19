@@ -1,4 +1,4 @@
-"Date","Rolling 14-Day Positive Cases Per 100,000","min","Level Blue: Caution","Level Yellow: Concern","Level Orange: High Risk","Level Red: Severe Risk"
+"Date","Rolling 7-Day Positive Cases Per 100,000","min","Level Blue: Caution","Level Yellow: Concern","Level Orange: High Risk","Level Red: Severe Risk"
 "2020-03-03",0,0,100,300,500,800
 "2020-03-04",0,0,100,300,500,800
 "2020-03-05",0,0,100,300,500,800
