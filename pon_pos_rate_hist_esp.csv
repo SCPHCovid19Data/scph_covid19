@@ -1,5 +1,6 @@
 "Fecha","Porcentaje de pruebas positivas durante los 7 dias anteriores","min","Nivel Azul: Precacion","Nivel Amarillo: Preocupaction","Nivel Anaranjado: Alto Riesgo","Nivel Rojo: Reisgo severo"
-2021-03-02,4.49852507374631,0,5,7.5,15,30
+2021-03-03,3.90855457227139,0,5,7.5,15,30
+2021-03-02,4.49521002210759,0,5,7.5,15,30
 2021-03-01,4.96894409937888,0,5,7.5,15,30
 2021-02-28,5.10732790525537,0,5,7.5,15,30
 2021-02-27,5.28808208366219,0,5,7.5,15,30
