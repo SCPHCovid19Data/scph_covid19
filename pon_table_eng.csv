@@ -1,5 +1,5 @@
 "Milestone","Metric","Status"
-"Rolling 7-Day Positive Cases Per 100,000","155.0","Level Yellow: Concern"
-"Rolling 7-Day Percent of Tests Positive","3.5","Level Blue: Caution"
+"7-Day Cumulative Incidence Rate","158.2","Level Yellow: Concern"
+"7-Day Average Positivity (%)","4.0","Level Blue: Caution"
 "Hospital Occupancy (%)","55.9","Level Blue: Caution"
-"Testing Rate per 1,000 Residents","7.8","Excellent: Above Minimum Threshold"
+"Testing Rate","4.0","Excellent: Above Minimum Threshold"
