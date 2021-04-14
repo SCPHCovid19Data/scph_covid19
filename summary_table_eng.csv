@@ -1,8 +1,9 @@
 "type_eng","value"
-"Confirmed Positive Tests",3312
-"Probable Cases",259
-"Total Cases",3571
-"Hospitalizations",134
-"Total Tested",48521
-"Outbreaks",194
-"Deaths Among Cases",7
+"Confirmed Positive Tests",2112
+"Probable Cases",221
+"Total Cases",2333
+"Hospitalizations",65
+"Total Tested*",30625
+"Outbreaks",111
+"Deaths Among Cases",5
+"Deaths Due to COVID-19",3

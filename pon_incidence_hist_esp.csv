@@ -1,4 +1,5 @@
 "Fecha","positivos nuevos por 100,000 personas en los 7 dias anteriores","min","Nivel Azul: Precacion","Nivel Amarillo: Preocupaction","Nivel Anaranjado: Alto Riesgo","Nivel Rojo: Reisgo severo"
+"0",0,0,100,300,500,800
 "2020-03-11",0,0,100,300,500,800
 "2020-03-12",0,0,100,300,500,800
 "2020-03-13",3.22851423774779,0,100,300,500,800
