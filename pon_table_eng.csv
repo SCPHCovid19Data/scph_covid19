@@ -1,5 +1,6 @@
 "Milestone","Metric","Status"
 "7-day Cumulative Incidence Rate","274.4","Level Yellow: Concern"
-"7-day Average Positivity (%)","7.3","Level Yellow: Concern"
 "Hospital Occupancy (%)","29.4","Level Blue: Caution"
-"Testing Rate","3.1","Excellent: Above Minimum Threshold"
+"Vaccine Coverage","","Level Yellow: Concern"
+"Fully Vaccinated","36.8",""
+"At least 1 Vaccine Dose","66.0",""
