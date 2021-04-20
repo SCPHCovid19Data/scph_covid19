@@ -1,4 +1,4 @@
-"Date","Fully Vaccinated (%)","Level Green: Little to No Threat","Level Blue: Caution","Level Yellow: Concern","min","max"
+"Date","Fully Vaccinated (%)","Level Green: Little to No Threat (70%)","Level Blue: Caution (60%)","Level Yellow: Concern","min","max"
 "2020-12-26",0.00745239780899504,70,60,50,0,100
 "2020-12-29",0.0111785967134926,70,60,50,0,100
 "2021-01-04",0.0149047956179901,70,60,50,0,100

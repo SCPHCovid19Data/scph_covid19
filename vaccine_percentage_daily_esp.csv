@@ -1,4 +1,4 @@
-"Fecha","Totalmente Vacunado (%)","Nivel Verde: Sin Reisgo","Nivel Azul: Precacion","Nivel Amarillo: Preocupaction","min","max"
+"Fecha","Totalmente Vacunado (%)","Nivel Verde: Sin Reisgo (70%)","Nivel Azul: Precacion (60%)","Nivel Amarillo: Preocupaction","min","max"
 "2020-12-26",0.00745239780899504,70,60,50,0,100
 "2020-12-29",0.0111785967134926,70,60,50,0,100
 "2021-01-04",0.0149047956179901,70,60,50,0,100
