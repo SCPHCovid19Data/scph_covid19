@@ -1,6 +1,6 @@
 "Race/Ethnicity","Total 1-dose Pfizer","Total 2-dose Pfizer","Total 1-dose Moderna","Total 2-dose Moderna","Total 1-dose Janssen","Partially Vaccinated (%)","Fully Vaccinated (%)","At least 1-dose Vaccinated (%)","Proportion Among Fully Vaccinated (%)","Proportion Among Partially Vaccinated (%)","Proportion Race/Ethnicity by 2019 Census (%)"
 "American Indian or Alaskan Native - Non Hispanic",39,22,20,16,8,26.9,59,85.9,0.24,0.655,0.29
 "Asian - Non Hispanic",220,182,103,84,47,16.4,89.9,106,1.63,1.78,1.28
-"Black or African American - Non Hispanic",60,46,102,90,19,7.41,44.2,51.6,0.808,0.81,1.29
-"Hispanic, All Races",783,538,482,405,182,9.11,31.8,40.9,5.86,10,12.15
-"White - Non Hispanic",9631,7998,6839,6184,1826,9.63,67.4,77,83.4,71.3,84.98
+"Black or African American - Non Hispanic",60,46,102,90,19,7.41,44.2,51.6,0.807,0.811,1.29
+"Hispanic, All Races",784,539,482,405,182,9.11,31.9,41,5.86,10,12.15
+"White - Non Hispanic",9636,8005,6840,6189,1827,9.61,67.5,77.1,83.4,71.2,84.98
