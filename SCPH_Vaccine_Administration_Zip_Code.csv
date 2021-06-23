@@ -1,6 +1,6 @@
 "Town","Zip Code","Percentage Fully Vaccinated","Number of Persons Fully Vaccinated","US Census Population (18+)","Number of 1-dose Pfizer Administered","Number of 2-dose Pfizer Administered","Number of 1-dose Modnerna Administered","Number of 2-dose Modnerna Administered","Number of 1-dose Janssen Administered"
-"BRECKENRIDGE","80424",69,7020,10169,4260,3734,2696,2419,867
-"DILLON","80435",70.6,5135,7278,3171,2724,2007,1770,641
-"FRISCO","80443",70.9,3178,4483,1788,1613,1274,1193,372
+"BRECKENRIDGE","80424",69.1,7029,10169,4262,3741,2695,2421,867
+"DILLON","80435",70.7,5148,7278,3174,2731,2010,1773,644
+"FRISCO","80443",71,3184,4483,1791,1614,1274,1194,376
 "SILVERTHORNE-1","80497",144,479,333,286,254,187,170,55
-"SILVERTHORNE-2","80498",50.2,4013,7999,2334,2030,1693,1529,454
+"SILVERTHORNE-2","80498",50.3,4021,7999,2336,2034,1694,1532,455
